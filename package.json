@@ -1,0 +1,25 @@
+{
+  "name": "ne-template",
+  "version": "0.0.1",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-engine/ne-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node-engine"
+  ],
+  "author": "Bernard Hamann",
+  "license": "SEE LICENSE IN readme.md",
+  "bugs": {
+    "url": "https://github.com/node-engine/ne-template/issues"
+  },
+  "homepage": "https://github.com/node-engine/ne-template#readme",
+  "dependencies": {
+  }
+}
