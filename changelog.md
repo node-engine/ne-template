@@ -2,6 +2,7 @@
 
 ## Change Tags
 
+- [FN] New Feature: Added a new feature
 - [BF] Bug fix: Fixed a bug
 - [OO] Optimisation: The internal workings of the module is improved 
 - [OR] Refactor: The internal code is refactored
